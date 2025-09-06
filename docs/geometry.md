@@ -1,5 +1,5 @@
 # Geometry
-The geometry corresponds to the **liner** of the combustion chamber, which consists of three distinct zones:
+The geometry was obtained by carefully measuring the **liner** of the combustion chamber using simple tools such as a ruler and vernier caliper. The liner consists of three distinct zones:
 - **Dome Swirler:** Introduces turbulence to enhance fuel-air mixing.
 - **Primary Zone:** The region where combustion occurs.
 - **Dilution Zone:** Where the exhaust gases are cooled before exiting the chamber.
