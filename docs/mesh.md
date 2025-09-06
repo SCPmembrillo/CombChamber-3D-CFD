@@ -5,6 +5,9 @@
 <div align="center">
   <img src="images/mesh_2.png" alt="images/mesh_2.png" width="600"/>
 </div>
+<div align="center">
+  <img src="images/mesh_3.png" alt="images/mesh_3.png" width="600"/>
+</div>
 
 - **inlet_cooling_1:** Light pink annular ring.  
 - **inlet_cooling_2:** Red annular ring.  
