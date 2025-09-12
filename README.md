@@ -12,15 +12,3 @@ This project focuses on the CFD simulation of a combustion chamber, specifically
 ## Software & Tools
 - SpaceClaim: Geometry modeling.
 - Fluent with Meshing: Grid generation, CFD simulation and post-processing
-
-<div align="center">
-  <img src="docs/images/liner_geom.png" alt="images/mesh_2.png" width="400"/>
-  
-  <a id="figure-1-mesh-2"><strong>Liner Geomtry</strong></a>  
-</div>
-
-<div align="center">
-  <img src="docs/images/temperaturas.png" alt="images/mesh_2.png" width="600"/>
-  
-  <a id="figure-1-mesh-2"><strong>Combustion temperatures dsitribution</strong></a>  
-</div>
