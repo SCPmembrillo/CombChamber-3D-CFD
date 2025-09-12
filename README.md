@@ -5,6 +5,7 @@ This project focuses on the CFD simulation of a combustion chamber, specifically
   <img src="docs/images/velocity.gif" alt="images/mesh_2.png" width="600"/>
   
 </div>
+
 ## Objetives
 - Develop accurate geometries and computational meshes of the combustion chamber.  
 - Perform CFD simulations using **Ansys Fluent** to evaluate flow characteristics.  
