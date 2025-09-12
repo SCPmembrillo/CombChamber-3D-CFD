@@ -10,11 +10,11 @@ This project focuses on the CFD simulation of a combustion chamber, specifically
 <div align="center">
   <img src="docs/images/liner_geom.png" alt="images/mesh_2.png" width="400"/>
   
-  <a id="figure-1-mesh-2"><strong>Figure 1. Named Selections</strong></a>  
+  <a id="figure-1-mesh-2"><strong>Liner Geomtry</strong></a>  
 </div>
 
 <div align="center">
   <img src="docs/images/temperaturas.png" alt="images/mesh_2.png" width="600"/>
   
-  <a id="figure-1-mesh-2"><strong>Figure 1. Named Selections</strong></a>  
+  <a id="figure-1-mesh-2"><strong>Combustion temperatures dsitribution</strong></a>  
 </div>
